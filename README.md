@@ -19,6 +19,8 @@ Clone the project.
 ```bash
 git clone git@github.com:infaspublications/blog.git
 cd blog
+git submodule init
+git submodule update
 ```
 
 Start Hugo and preview
