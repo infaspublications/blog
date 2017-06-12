@@ -40,6 +40,8 @@ hugo new post/awesome-post.md
 
 You can add posts by editing `infaspublications.github.io/content/post/awesome-post.md`.
 
+Markdown reference: https://gohugo.io/content/example/
+
 # Publish new posts
 
 ```bash
