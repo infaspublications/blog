@@ -1,6 +1,3 @@
 [submodule "infaspublications.github.io/public"]
 	path = infaspublications.github.io/public
 	url = git@github.com:infaspublications/infaspublications.github.io.git
-[submodule "infaspublications.github.io/themes/minimo"]
-	path = infaspublications.github.io/themes/minimo
-	url = https://github.com/MunifTanjim/minimo
