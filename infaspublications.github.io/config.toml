@@ -1,4 +1,11 @@
 baseURL = "https://infaspublications.github.io/"
 languageCode = "ja-jp"
 title = "INFAS PUBLICATIONS Developer Blog"
-theme = "minimo"
+theme = "Casper"
+[params]
+    description = "Welcome to my website"
+    cover = "images/alesia-kazantceva-283288.jpg"
+    authorlocation = "Tokyo, Japan"
+    googleAnalyticsUserID = "UA-34906528-3"
+    hideHUGOSupport = false
+    hjsStyle = "default"
