@@ -51,10 +51,10 @@ cd infaspublications.github.io
 hugo
 cd public
 git add -A
-git commt -m 'New post: Awesome title'
+git commit -m 'New post: Awesome title'
 git push origin master
 cd ../../ # Go to root of "blog" project
 git add -A
-git commt -m 'New post: Awesome title'
+git commit -m 'New post: Awesome title'
 git push origin master
 ```
