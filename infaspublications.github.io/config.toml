@@ -1,7 +1,8 @@
 baseURL = "https://infaspublications.github.io/"
 languageCode = "ja-jp"
 title = "INFAS PUBLICATIONS Developer Blog"
-theme = "Casper"
+theme = "casper"
+DisqusShortname = "infas-publications-developer-blog"
 [params]
     description = "Blogs by web developers, Growth hackers, etc."
     cover = "images/alesia-kazantceva-283288.jpg"
