@@ -1,6 +1,6 @@
 +++
 draft = false
-date = "2017-07-07T20:12+09:00"
+date = "2017-07-07T20:12:00+09:00"
 slug = "spa-aurora-serverless-as-wwdjapan-engine"
 tags = ["AWS","SPA","Aurora","Serverless","CloudFront","S3","Lambda","API Gateway","SSR","Continuous Delivery"]
 image = "/images/spa-aurora-serverless-as-wwdjapan-engine/cover.png"
