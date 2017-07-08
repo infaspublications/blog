@@ -2,7 +2,7 @@
 draft = false
 date = "2017-07-07T20:12:00+09:00"
 slug = "spa-aurora-serverless-as-wwdjapan-engine"
-tags = ["AWS","SPA","Aurora","Serverless","CloudFront","S3","Lambda","API Gateway","SSR","Continuous Delivery"]
+tags = ["AWS","SPA","Aurora","サーバーレス","CloudFront","S3","Lambda","API Gateway","SSR","継続的デリバリー"]
 image = "/images/spa-aurora-serverless-as-wwdjapan-engine/cover.png"
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
