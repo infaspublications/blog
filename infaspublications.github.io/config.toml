@@ -5,7 +5,7 @@ theme = "casper"
 DisqusShortname = "infas-publications-developer-blog"
 [params]
     description = "Blogs by web developers, Growth hackers, etc."
-    cover = "images/alesia-kazantceva-283288.jpg"
+    cover = "images/cover.jpg"
     authorlocation = "Tokyo, Japan"
     googleAnalyticsUserID = "UA-34906528-3"
     hideHUGOSupport = false
